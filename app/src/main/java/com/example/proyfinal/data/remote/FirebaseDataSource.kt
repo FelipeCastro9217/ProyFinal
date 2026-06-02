@@ -43,4 +43,3 @@ suspend fun getMedicamentosRemoto(userId: String): List<Map<String, Any>> {
         .await()
     return snapshot.documents.mapNotNull { it.data }
 }
-}
