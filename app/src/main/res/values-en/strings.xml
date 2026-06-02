@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">MediAlert</string>
+    <string name="app_subtitle">Medication Reminder App</string>
+
+    <!-- Auth -->
+    <string name="email">Email address</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="login">Sign in</string>
+    <string name="register">Create account</string>
+    <string name="no_account">Don\'t have an account? Sign up</string>
+    <string name="already_account">Already have an account? Sign in</string>
+    <string name="logout">Sign out</string>
+
+    <!-- Medications -->
+    <string name="my_medications">My medications</string>
+    <string name="add_medication">Add medication</string>
+    <string name="medication_name">Medication name</string>
+    <string name="medication_name_hint">e.g. Metformin 500mg</string>
+    <string name="dose">Dose</string>
+    <string name="dose_hint">1 tablet</string>
+    <string name="frequency">Frequency</string>
+    <string name="time">Time</string>
+    <string name="save_medication">Save medication</string>
+    <string name="search_medication">Search medication…</string>
+    <string name="no_medications">No medications added yet.</string>
+    <string name="delete_medication_title">Delete medication</string>
+    <string name="delete_medication_confirm">Do you want to delete %1$s?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- History -->
+    <string name="history">History</string>
+    <string name="weekly_adherence">Weekly adherence</string>
+    <string name="taken">Taken</string>
+    <string name="skipped">Skipped</string>
+    <string name="no_history">No history yet.</string>
+
+    <!-- Profile / Language -->
+    <string name="profile">Profile</string>
+    <string name="account_section">Account</string>
+    <string name="language_section">Language</string>
+    <string name="language_description">Select the application language</string>
+    <string name="lang_spanish">Español</string>
+    <string name="lang_english">English</string>
+    <string name="save_language">Save changes</string>
+
+    <!-- Navigation -->
+    <string name="back">Back</string>
+</resources>

@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">MediAlert</string>
+    <string name="app_subtitle">App de Recordatorios de Medicamentos</string>
+
+    <!-- Auth -->
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="confirm_password">Confirmar contraseña</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="register">Crear cuenta</string>
+    <string name="no_account">¿No tienes cuenta? Regístrate</string>
+    <string name="already_account">¿Ya tienes cuenta? Inicia sesión</string>
+    <string name="logout">Cerrar sesión</string>
+
+    <!-- Medications -->
+    <string name="my_medications">Mis medicamentos</string>
+    <string name="add_medication">Agregar medicamento</string>
+    <string name="medication_name">Nombre del medicamento</string>
+    <string name="medication_name_hint">Ej. Metformina 500mg</string>
+    <string name="dose">Dosis</string>
+    <string name="dose_hint">1 tableta</string>
+    <string name="frequency">Frecuencia</string>
+    <string name="time">Hora</string>
+    <string name="save_medication">Guardar medicamento</string>
+    <string name="search_medication">Buscar medicamento…</string>
+    <string name="no_medications">No hay medicamentos agregados.</string>
+    <string name="delete_medication_title">Eliminar medicamento</string>
+    <string name="delete_medication_confirm">¿Deseas eliminar %1$s?</string>
+    <string name="delete">Eliminar</string>
+    <string name="cancel">Cancelar</string>
+
+    <!-- History -->
+    <string name="history">Historial</string>
+    <string name="weekly_adherence">Adherencia semanal</string>
+    <string name="taken">Tomado</string>
+    <string name="skipped">Omitido</string>
+    <string name="no_history">Sin historial aún.</string>
+
+    <!-- Profile / Language -->
+    <string name="profile">Perfil</string>
+    <string name="account_section">Cuenta</string>
+    <string name="language_section">Idioma</string>
+    <string name="language_description">Selecciona el idioma de la aplicación</string>
+    <string name="lang_spanish">Español</string>
+    <string name="lang_english">English</string>
+    <string name="save_language">Guardar cambios</string>
+
+    <!-- Navigation -->
+    <string name="back">Volver</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130500774606",
+    "project_id": "medialert-dd566",
+    "storage_bucket": "medialert-dd566.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130500774606:android:7f645060f32a866f2e1e9f",
+        "android_client_info": {
+          "package_name": "com.example.proyfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXyNOIHOkfRi0h3ob2mnqqJTM-6N6pn3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
