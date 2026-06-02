@@ -3,6 +3,7 @@ package com.example.proyfinal.data.local
 import androidx.room.*
 import com.example.proyfinal.model.Medicamento
 import kotlinx.coroutines.flow.Flow
+@Dao
 interface MedicamentoDao {
     @Query("SELECT * FROM medicamentos WHERE userId = :userId AND activo = 1")
     fun getMedicamentosByUser(userId: String): Flow<List<Medicamento>>

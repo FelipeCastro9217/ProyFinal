@@ -4,7 +4,7 @@ import androidx.room.*
 import com.example.proyfinal.model.HistorialEntrada
 import kotlinx.coroutines.flow.Flow
 
-
+@Dao
 interface HistorialDao {
 
 
